@@ -37,7 +37,7 @@ To use these templates, you’ll need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/remarkable-templates.git
+   git clone https://github.com/raddadengineer/remarkable-templates.git
    cd remarkable-templates
    ```
 
