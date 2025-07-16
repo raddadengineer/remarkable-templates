@@ -102,4 +102,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - Inspired by community templates from [TabletTemplates](https://tablettemplates.com), [Hyperpaper.me](https://hyperpaper.me), and Reddit’s reMarkable community.
 - Built with LaTeX for compatibility with [reMarkable Methods](https://remarkable.com) and third-party tools like rM2 Tool and RCU.
 
-For questions or support, open an issue in this repository or contact the maintainer at [your-email@example.com].
+For questions or support, open an issue in this repository or contact the maintainer.
