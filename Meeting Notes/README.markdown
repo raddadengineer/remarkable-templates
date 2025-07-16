@@ -26,8 +26,8 @@ To use these templates, you’ll need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/remarkable-meeting-notes.git
-   cd remarkable-meeting-notes
+   git clone https://github.com/raddadengineer/remarkable-templates.git
+   cd -meeting-notes
    ```
 
 2. **Compile the LaTeX File**:
